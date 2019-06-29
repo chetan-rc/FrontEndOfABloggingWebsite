@@ -1,0 +1,34 @@
+.blogTite {
+    font-size: 150%;
+    font-family: 'Abel', sans-serif;
+    font-weight: bold;
+    text-align:center;
+}
+.blogText {
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.blogAuthor {
+    padding: 0px 0px 0px 10px;
+    font-family: 'Niconne', cursive;
+    font-size: 30px;
+    display: ruby;
+}
+.blogContent{
+
+}
+
+/* Set a style for all the remaining elements like Like button, Edit button, Comment button and so on. */
+h6{
+	font-weight: bold !important;
+	font-family : Agency FB !important;
+}
+
+#likeBlog{
+	width: 10%;
+}
+
+#editButton{
+	font-family:'Helvetica' !important;
+	border-radius: 0 !important;
+}
